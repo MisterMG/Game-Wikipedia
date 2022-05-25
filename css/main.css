@@ -1,0 +1,24 @@
+header{
+    background-color: rgb(136, 181, 188);
+    text-align: center;
+    display: block;
+}
+header div a{
+    display: inline-block;
+    padding: 10px;
+    font-family: 'Comfortaa';
+    transition: 0.5s;
+}
+header div a:hover{
+ color: white;
+ background-color: rgba(191, 193, 57, 0.412);
+ transition: 0.5s;
+}
+body{
+    margin: 0px;
+    background-image: url(../img/background.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}

@@ -1,0 +1,67 @@
+h2{
+    font-family: 'Press Start 2P', cursive;
+    font-weight: 600;
+    color: #233755;
+}
+main {
+    background-image:url("../img/PybCq.jpg");
+    filter:alpha(opacity=100);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+article{
+    padding: 30px;
+    margin-left: 100px;
+    margin-right: 100px;
+    border: 3px solid #DCDCDC;
+    background-color: rgba(255, 255, 255, 0.5 );
+}
+img {
+    border: 3px solid #4fa7e2;
+    display: block;
+    max-width: 100%;
+    max-height: 100%;
+}
+.head {
+    height: 90px;
+    background-image:url("../img/12272ee4ae45946d93b704303e575bd5.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+h1 {
+    font-family: 'Rubik Wet Paint', cursive;
+    margin: 10px;
+    padding: 10px;
+    color: #2f42e7;
+    text-align: center;
+    font-size: 60px;
+}
+footer {
+    background-color: #233755 ;
+    height: 80px;
+    text-align:left;
+    padding: 20px;
+    padding-left: 110px;
+    color: white;
+}
+a {
+    font-family: 'Arial';
+    font-size: small;
+    color: #1d2bec;
+}
+.naverh{
+    border: 2px solid #f02d2d;
+    color: #f02d2d;
+    left: 30px;
+    bottom: 30px;
+    padding-top: 12px ;
+    display: inline-block;
+    position: fixed ;
+    width: 70px;
+    height: 30px;
+    text-align: center;
+}

@@ -1,0 +1,28 @@
+.First{
+    height: 25px;
+    background-color: rgb(131, 132, 134);
+    color: white;
+    text-align:justify;
+    display: block;
+}
+p{
+    margin: 5px;
+}
+.second{
+    background-color: rgb(195, 195, 195);
+    height: 60px;
+}
+footer div a img{
+    margin: 10px;
+    height: 40px;
+    transition: 1s;
+}
+footer div a img:hover{
+    transform: translate(0, -4px);
+    transition: 0.5s;
+}
+footer{
+    bottom: 0px;
+    right: 0px;
+    left:0px
+}
